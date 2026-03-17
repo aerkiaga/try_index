@@ -1,5 +1,5 @@
 # try_index
-A boilerplate library that provides traits [TryIndex] and [TryIndexMut].
+A boilerplate library that provides traits `TryIndex` and `TryIndexMut`.
 
 Unlike the ones in [try_traits](https://docs.rs/try-traits/latest/try_traits/),
 this gives explicit implementations for all standard library collections,
