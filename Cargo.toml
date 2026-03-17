@@ -2,6 +2,14 @@
 name = "try_index"
 version = "0.1.0"
 edition = "2024"
+authors = ["Developers of the try_index project"]
+license = "MIT OR Apache-2.0"
+description = "A boilerplate library that provides traits TryIndex and TryIndexMut."
+readme = "README.md"
+homepage = "https://github.com/aerkiaga/try_index"
+repository = "https://github.com/aerkiaga/try_index"
+keywords = ["traits"]
+categories = ["algorithms", "no-std"]
 
 [dependencies]
 
